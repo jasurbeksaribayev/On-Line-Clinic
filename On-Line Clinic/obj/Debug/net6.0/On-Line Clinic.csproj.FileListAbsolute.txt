@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\On-Line Clinic\On-Line Clinic\bin\Debug\net6.0\On-Line Clinic.exe
+C:\Users\User\source\repos\On-Line Clinic\On-Line Clinic\bin\Debug\net6.0\On-Line Clinic.deps.json
+C:\Users\User\source\repos\On-Line Clinic\On-Line Clinic\bin\Debug\net6.0\On-Line Clinic.runtimeconfig.json
+C:\Users\User\source\repos\On-Line Clinic\On-Line Clinic\bin\Debug\net6.0\On-Line Clinic.dll
+C:\Users\User\source\repos\On-Line Clinic\On-Line Clinic\bin\Debug\net6.0\On-Line Clinic.pdb
+C:\Users\User\source\repos\On-Line Clinic\On-Line Clinic\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\On-Line Clinic\On-Line Clinic\obj\Debug\net6.0\On-Line Clinic.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\On-Line Clinic\On-Line Clinic\obj\Debug\net6.0\On-Line Clinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\On-Line Clinic\On-Line Clinic\obj\Debug\net6.0\On-Line Clinic.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\On-Line Clinic\On-Line Clinic\obj\Debug\net6.0\On-Line Clinic.AssemblyInfo.cs
+C:\Users\User\source\repos\On-Line Clinic\On-Line Clinic\obj\Debug\net6.0\On-Line Clinic.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\On-Line Clinic\On-Line Clinic\obj\Debug\net6.0\On-Line Clinic.csproj.CopyComplete
+C:\Users\User\source\repos\On-Line Clinic\On-Line Clinic\obj\Debug\net6.0\On-Line Clinic.dll
+C:\Users\User\source\repos\On-Line Clinic\On-Line Clinic\obj\Debug\net6.0\refint\On-Line Clinic.dll
+C:\Users\User\source\repos\On-Line Clinic\On-Line Clinic\obj\Debug\net6.0\On-Line Clinic.pdb
+C:\Users\User\source\repos\On-Line Clinic\On-Line Clinic\obj\Debug\net6.0\On-Line Clinic.genruntimeconfig.cache
+C:\Users\User\source\repos\On-Line Clinic\On-Line Clinic\obj\Debug\net6.0\ref\On-Line Clinic.dll
